@@ -1,4 +1,6 @@
-# Hanadi Alhamdan
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hanadi%20Alhamdan&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=PhD%20Researcher%20%7C%20Deep%20Learning%20%7C%20Durham%20University&descAlignY=60&descSize=16)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B2C8B&width=500&lines=PhD+Researcher+%40+Durham+University;Deep+Learning+%7C+Driver+Behaviour+Analysis;CNN+%7C+BiLSTM+%7C+Attention+Mechanisms)](https://git.io/typing-svg)
 
 PhD Researcher at [Durham University](https://www.durham.ac.uk/staff/hanadi-a-alhamdan/), UK  
 Lecturer at [Princess Nourah bint Abdulrahman University](https://pnu.edu.sa/en/pages/home.aspx), Saudi Arabia
@@ -44,9 +46,17 @@ I am a PhD researcher in Computer Science at Durham University, working on deep 
 
 ---
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halhamdan&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
 ## Links
 
 - [Durham University Profile](https://www.durham.ac.uk/staff/hanadi-a-alhamdan/)
 - [LinkedIn](https://www.linkedin.com/in/hanadi-alhamdan-3961a7118/)
 - [ResearchGate](https://www.researchgate.net/profile/Hanadi-Alhamdan)
 - [Email](mailto:hanadi.alhamdan@gmail.com)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
